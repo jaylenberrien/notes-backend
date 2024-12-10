@@ -16,7 +16,7 @@ app.use(cors({
         'http://localhost:5174',
         'https://jaylenberrien.github.io',
         'https://jaylenberrien.github.io/notes',
-        'notes-production-9ca7.up.railway.app'
+        'notes-backend-production-0153.up.railway.app'
 
     ],
     methods: 'GET, HEAD,PUT,PATCH,POST,DELETE',
